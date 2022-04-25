@@ -12,11 +12,8 @@
 
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/fandesfyf/fandesfyf/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"> <img src="https://metrics.lecoq.io/fandesfyf?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <br>
-
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub数据统计 -->
 <div align="center">
